@@ -1,2 +1,3 @@
 # mfbd
-Mean-field birth-death model
+
+Mean-field birth-death model experiments
