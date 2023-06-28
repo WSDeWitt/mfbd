@@ -10,3 +10,5 @@ dependencies:
   - pip:
     - jax[cpu]
     - diffrax
+    - jaxopt
+    - jaxopt
